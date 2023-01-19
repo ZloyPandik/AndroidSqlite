@@ -1,0 +1,2 @@
+# AndroidSqlite
+Release
